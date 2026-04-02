@@ -18,6 +18,3 @@ Our goal is to deliver reliable, well-integrated solutions that fit real busines
 
 ### About this GitHub
 This is where we share selected projects, technical building blocks, and tools related to our work in investment technology.
-
----
-**Bivektor** — your trusted partner in investment technology.
